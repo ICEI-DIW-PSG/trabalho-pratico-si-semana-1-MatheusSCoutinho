@@ -4,16 +4,19 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Matheus Sena Coutinho
+Matricula: 501092
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print do Navegador pasta network](images/PrintNavegadorNetwork.png)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
+![Print do Rplit](images/HelloWorldMatheus.png)
+
 
 
 ## Orientações sobre Linguagem MarkDown
